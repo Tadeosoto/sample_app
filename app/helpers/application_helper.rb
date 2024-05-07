@@ -9,3 +9,9 @@ def full_title(page_title = '')
     end
   end
 end
+
+# nos quedamos en la pagina 221
+
+#  puts "It's a palindrome!" if s == s.reverse
+
+#  a.join(', ') 
